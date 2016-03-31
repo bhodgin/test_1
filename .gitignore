@@ -1,0 +1,4 @@
+.DS_Store
+*.excuserstate
+project.xcworkspace/
+xcuserdata/
